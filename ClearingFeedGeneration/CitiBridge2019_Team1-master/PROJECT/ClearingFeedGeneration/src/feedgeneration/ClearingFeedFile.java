@@ -19,7 +19,7 @@ import org.apache.logging.log4j.LogManager;
  * each folder contains filename in the following format:
  * <original_file_name>+<current_date>+ valid|invalid|feed 
  * (keywords according to folder) in tct format. 
- * e.g. sample_20032018_valid.txt
+ * 
  * 
  * Also the path of where the file is stored is added to the logger
  * Functions: ClearingFeedFile()
